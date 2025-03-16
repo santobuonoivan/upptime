@@ -1,22 +1,22 @@
 [
   {
     "name": "Wineture Core",
-    "url": "https://api.wineture.cl/upptime",
+    "url": "https://api.wineture.cl/api",
     "icon": "https://icons.duckduckgo.com/ip3/api.wineture.cl.ico",
     "slug": "wineture-core",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-16": 15
+      "2025-03-16": 24
     }
   },
   {
@@ -30,31 +30,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 900,
-    "timeWeek": 900,
-    "timeMonth": 900,
-    "timeYear": 900,
+    "time": 942,
+    "timeDay": 942,
+    "timeWeek": 942,
+    "timeMonth": 942,
+    "timeYear": 942,
     "dailyMinutesDown": {}
   },
   {
     "name": "Wineture Duck Payments",
-    "url": "https://pay.wineture.cl/upptime",
+    "url": "https://pay.wineture.cl/api",
     "icon": "https://icons.duckduckgo.com/ip3/pay.wineture.cl.ico",
     "slug": "wineture-duck-payments",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 537,
-    "timeDay": 537,
-    "timeWeek": 537,
-    "timeMonth": 537,
-    "timeYear": 537,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 549,
+    "timeDay": 549,
+    "timeWeek": 549,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-03-16": 15
+      "2025-03-16": 24
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-16": 15
+      "2025-03-16": 24
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 541,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "time": 563,
+    "timeDay": 563,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563,
     "dailyMinutesDown": {}
   }
 ]
