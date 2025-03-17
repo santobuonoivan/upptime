@@ -1,7 +1,7 @@
 url: https://api.wineture.cl/api
-status: up
-code: 200
-responseTime: 766
-lastUpdated: 2025-03-17T04:33:33.705Z
+status: down
+code: 502
+responseTime: 605
+lastUpdated: 2025-03-17T18:24:36.314Z
 startTime: 2025-03-16T21:30:22.638Z
 generator: Upptime <https://github.com/upptime/upptime>
