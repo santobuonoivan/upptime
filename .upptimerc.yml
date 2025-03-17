@@ -13,7 +13,7 @@ sites:
     url: https://content.wineture.cl
   - name: Wineture pages Strapi
     url: https://pages.wineture.cl
-  -name: wineture Auth keycloack
+  - name: wineture Auth keycloack
     url: https://auth.wineture.cl
 
 assignees:
