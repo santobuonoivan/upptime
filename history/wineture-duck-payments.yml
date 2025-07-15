@@ -1,7 +1,7 @@
 url: https://pay.wineture.cl/api
-status: down
-code: 502
-responseTime: 587
-lastUpdated: 2025-07-15T06:35:49.137Z
+status: up
+code: 200
+responseTime: 608
+lastUpdated: 2025-07-15T06:49:52.484Z
 startTime: 2025-03-16T21:30:25.858Z
 generator: Upptime <https://github.com/upptime/upptime>
