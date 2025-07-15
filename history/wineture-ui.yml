@@ -1,7 +1,7 @@
 url: https://wineture.cl
-status: up
-code: 200
-responseTime: 1090
-lastUpdated: 2025-07-14T23:06:09.874Z
+status: down
+code: 502
+responseTime: 1089
+lastUpdated: 2025-07-15T06:35:46.600Z
 startTime: 2025-03-16T21:30:24.642Z
 generator: Upptime <https://github.com/upptime/upptime>
