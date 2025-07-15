@@ -1,7 +1,7 @@
 url: https://auth.wineture.cl
-status: down
-code: 502
-responseTime: 599
-lastUpdated: 2025-07-15T06:35:55.574Z
+status: up
+code: 200
+responseTime: 1463
+lastUpdated: 2025-07-15T06:50:00.888Z
 startTime: 2025-03-17T04:33:37.709Z
 generator: Upptime <https://github.com/upptime/upptime>
