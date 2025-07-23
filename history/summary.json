@@ -4,11 +4,11 @@
     "url": "https://api.wineture.cl/api",
     "icon": "https://icons.duckduckgo.com/ip3/api.wineture.cl.ico",
     "slug": "wineture-core",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.82%",
     "time": 632,
     "timeDay": 699,
@@ -16,6 +16,7 @@
     "timeMonth": 639,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2025-07-23": 3,
       "2025-07-01": 27,
       "2025-03-17": 152,
       "2025-03-16": 150
@@ -26,10 +27,10 @@
     "url": "https://wineture.cl",
     "icon": "https://icons.duckduckgo.com/ip3/wineture.cl.ico",
     "slug": "wineture-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1087,
@@ -38,6 +39,7 @@
     "timeMonth": 1333,
     "timeYear": 1087,
     "dailyMinutesDown": {
+      "2025-07-23": 2,
       "2025-07-01": 20
     }
   },
@@ -46,11 +48,11 @@
     "url": "https://pay.wineture.cl/api",
     "icon": "https://icons.duckduckgo.com/ip3/pay.wineture.cl.ico",
     "slug": "wineture-duck-payments",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.80%",
     "time": 661,
     "timeDay": 611,
@@ -58,6 +60,7 @@
     "timeMonth": 762,
     "timeYear": 661,
     "dailyMinutesDown": {
+      "2025-07-23": 2,
       "2025-07-01": 19,
       "2025-03-21": 19,
       "2025-03-17": 187,
@@ -69,11 +72,11 @@
     "url": "https://content.wineture.cl",
     "icon": "https://icons.duckduckgo.com/ip3/content.wineture.cl.ico",
     "slug": "wineture-content-strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 646,
     "timeDay": 695,
@@ -81,6 +84,7 @@
     "timeMonth": 763,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2025-07-23": 1,
       "2025-07-01": 19,
       "2025-03-16": 69
     }
@@ -90,10 +94,10 @@
     "url": "https://pages.wineture.cl",
     "icon": "https://icons.duckduckgo.com/ip3/pages.wineture.cl.ico",
     "slug": "wineture-pages-strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 915,
@@ -102,6 +106,7 @@
     "timeMonth": 772,
     "timeYear": 915,
     "dailyMinutesDown": {
+      "2025-07-23": 1,
       "2025-07-01": 18
     }
   },
@@ -110,9 +115,9 @@
     "url": "https://auth.wineture.cl",
     "icon": "https://icons.duckduckgo.com/ip3/auth.wineture.cl.ico",
     "slug": "wineture-auth-keycloack",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -122,6 +127,7 @@
     "timeMonth": 1217,
     "timeYear": 989,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-07-01": 18
     }
   }
